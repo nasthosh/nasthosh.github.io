@@ -1,0 +1,19 @@
+.container .content h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.topnav .rightnav {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+/*  text-align: right;*/
+}
+
+.container .content h2{
+    font-size: medium;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+}
