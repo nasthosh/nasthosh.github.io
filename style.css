@@ -4,6 +4,10 @@
     font-size: 50px;
 }
 
+.container .content .image {
+    margin-left: 2.5em
+}
+
 .topnav .rightnav {
   float: right;
   display: block;
