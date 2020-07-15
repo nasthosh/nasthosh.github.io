@@ -1,4 +1,3 @@
-.image {
-    padding-left: 100px;
-    margin-left: -50%;
+.imagePadding {
+padding: 50px 50px 50px 50px;
 }
